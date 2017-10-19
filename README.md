@@ -50,7 +50,7 @@ BSc in Computer Science, Incomplete (completed 3 out of 4 years before switching
 ## Experience
 
 **Freelance** (September 2007 to Present)    
-*Film Freelancer - *
+*Film Freelancer* - 
 Working since 2007 as a freelance writer, screenwriter, assistant director, director and editor for short and feature films, documentaries and TV. Some relevant work:
 - Currently writing a 10-episode TV Series to be aired at the end of 2018 on prime-time Portuguese TV;
 - Written, directed and edited three short films, that have been selected to various Portuguese and international film festivals;
@@ -60,27 +60,27 @@ Working since 2007 as a freelance writer, screenwriter, assistant director, dire
 - IMDb entry (partial credits): http://www.imdb.com/name/nm2617086/
 
 **Prison Advice and Care Trust** (March 2017 to September 2017)
-*Family Engagement Worker - *  
+*Family Engagement Worker* -   
 Based inside HMP Isis, I provided practical and emotional support to prisoners and their families. This work could take the form of individual case-work as well as group activities, from family-related courses to special visits aimed at children.
 
 **Cartoon Network** (December 2017 to March 2017)    
-*Compliance Editor and Producer - *
+*Compliance Editor and Producer* - 
 Freelance Compliance editor and producer for Portuguese-dubbed versions of cartoon series. Worked mainly on Doraemon.
 
 **Testronic and SEGA Europe** (August 2015 to March 2017)    
-*Portuguese Localisation Tester - *
+*Portuguese Localisation Tester* - 
 Freelance Localisation Games Tester for Portuguese versions of video games. Worked on games such as Football Manager 2017, Ratchet and Clank (2016), and Sony Driveclub.
 
 **University of Coimbra** (December 2012 to May 2013)    
-*Lecturer - *
+*Lecturer* - 
 Tutoring and supervision of the whole development process of students' short films, from the original idea to the final cut, for an undergraduate program in Film Studies.
 
 **ESMAE** (February 2011 to June 2012)
-*Lecturer - *
+*Lecturer* - 
 Screenwriting teacher and Script Coordinator for the students' short films for a Masters Degree in Film Production.
 
 **Persona Non Grata Pictures** (January 2008 to 2011)    
-*Head of Development – Film and TV - *
+*Head of Development – Film and TV* - 
 Responsible for script development for all of the company's projects. Duties included:
 - Setting development targets and manage the development team in line with those targets;
 - Writing scripts for short films, features, institutional videos and music videos;
@@ -88,7 +88,7 @@ Responsible for script development for all of the company's projects. Duties inc
 - Script Editing and Script Doctoring.
 
 **Various** (January 1998 to January 2017)    
-*Volunteer - *
+*Volunteer* - 
 Worked as a volunteer in the following contexts:
 - 2016/2017: St. Mungo's. Outreach volunteer at a charity for homeless people. The purpose of outreach work is to identify and connect with people who are sleeping rough in order to help them find accommodation, get into drug, alcohol or health treatment, re-establish relationships with friends and family or return home. 
 - 2001 – 2004: Students Union Bar. While attending university, I regularly volunteered to work at the Students Union bar (serving and preparing drinks, working at the cash register, cleaning up);
