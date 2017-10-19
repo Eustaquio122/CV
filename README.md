@@ -16,7 +16,7 @@ http://www.pngpictures.com/english/embargo_EN.htm
 
 #### Creative Thinking
 
-Having worked many years in an industry such as film I think creativity is a given. But what I wish to emphasize with the term "Creative Thinking", is not only the ability to come up with imaginative and innovative ideas but also to do so in a thought process that successfully appliesto a given context, being able to use new ideas to overcome challenges and make the best out of specific situations.
+Having worked many years in an industry such as film I think creativity is a given. But what I wish to emphasize with the term "Creative Thinking", is not only the ability to come up with imaginative and innovative ideas but also to do so in a thought process that successfully applies to a given context, being able to use new ideas to overcome challenges and make the best out of specific situations.
 When I was directing my first short film, in 2009, I was informed by production that, due to budget constraints, we wouldn't be able to shoot the final scene of the movie, which took place on a train. I decided to adapt to what might be available, and rewrote the whole scene - at the end, the main character didn't depart on a train, but instead on a bike. This is what the poster for the film came to be: http://www.imdb.com/title/tt1455614/mediaviewer/rm3235941632
 
 #### Analytical Thinking
@@ -26,9 +26,9 @@ One aspect of my work in film, both as Head of Development and as a freelance sc
 
 #### Working with People
 
-"Working with People" because I have not only a vast experience in working in teams, at different levels, as I have successfully worked with people from wider-anging backgrounds.
+"Working with People" because I have not only a vast experience in working in teams, at different levels, as I have successfully worked with people from wide-ranging backgrounds.
 Film shootings are done by large teams divided into a number of departments, each with very specific roles and responsibilities. As an intern, I have worked in some of these departments, under tight schedules and supervision. As an Assitant Director, I was responsible for the running of shootings, having to organise, lead, and coordinate all the departments.
-Throughout my career, from my work in film through to my volunteering for a homeless charity and work as a Family Engagement Worker at a prison in London, I have worked with renowned actors, tv executives, funding and production parties from a number of different countries, people that found themselves homeless in the streets of London (struggling with chronic unemployment, mental health issues, and addiction) and prisoners - from people convicted for shoplifting to people convicted for murder.
+Throughout my career, from my work in film through to my volunteering for a homeless charity and work as a Family Engagement Worker at a prison in London, I have worked with renowned actors, tv executives, funding and production parties from a number of different countries, people that found themselves homeless in the streets of London (struggling with chronic unemployment, mental health issues, and addiction) and prisoners - from people convicted of shoplifting to people convicted of murder.
 
 #### Learning and Teaching
 
@@ -56,7 +56,8 @@ Working since 2007 as a freelance writer, screenwriter, assistant director, dire
 - Written, directed and edited three short films, that have been selected to various Portuguese and international film festivals;
 - Written the script for the movie “Embargo” (António Ferreira, 2009), a micro-budget adaptation of the homonymous short-story by José Saramago which was selected for a number of high-profile film festivals, including Austin, Montreal, São Paulo and Rio de Janeiro. Also worked as an assistant director and editor for the same film;
 - Edited an Obs Doc about the world-renowned Portuguese photographer Eduardo Gageiro;
-- Awarded in the “Portuguese Young Creators” award with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories.
+- Awarded in the “Portuguese Young Creators” award with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories;
+- IMDb entry (partial credits): http://www.imdb.com/name/nm2617086/
 
 **Prison Advice and Care Trust** (March 2017 to September 2017)
 *Family Engagement Worker*  
