@@ -11,7 +11,7 @@ At the moment, I am looking to pick up where I left many years ago, when I switc
 
 Over my 10 year experience in the Film industry, I have developed a high number of projects for fiction films, documentaries, tv series, music videos, and corporate videos.
 During my time as Head of Development at Persona Non Grata Pictures, I was responsible for implementing a diverse slate of projects - some from my own ideas and initiative, others from strict client briefs - and subsequently managing the whole development process.
-Aside from developing and managing, I actively worked on projects throughout the whole process, as a writer, director/assistant director, and editor. An example of this is the feature film "Embargo", which I wrote, worked on as an assistant director and edited. The film went on to be selected for and awarded prizes at a number of international film festivals, released in theatres in Portugal, Brazil, and the UK, and is still regularly aired on Portuguese and Brazilian tv.
+Aside from developing and managing, I actively worked on projects throughout the whole process, as a writer, director/assistant director, and editor. An example of this is the feature film "Embargo", which I wrote, worked on as an assistant director and edited. The film went on to be selected for and awarded prizes at a number of international film festivals, released in theatres in Portugal, Brazil, and the UK, and is still regularly aired on Portuguese and Brazilian TV: 
 http://www.pngpictures.com/english/embargo_EN.htm
 
 #### Creative Thinking
@@ -57,21 +57,27 @@ Working since 2007 as a freelance writer, screenwriter, assistant director, dire
 - Written the script for the movie “Embargo” (António Ferreira, 2009), a micro-budget adaptation of the homonymous short-story by José Saramago which was selected for a number of high-profile film festivals, including Austin, Montreal, São Paulo and Rio de Janeiro. Also worked as an assistant director and editor for the same film;
 - Edited an Obs Doc about the world-renowned Portuguese photographer Eduardo Gageiro;
 - Awarded in the “Portuguese Young Creators” award with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories.
-**Prison Advice and Care Trust** (March 2017 to September 2017)   
+
+**Prison Advice and Care Trust** (March 2017 to September 2017)
 *Family Engagement Worker*  
 Based inside HMP Isis, I provided practical and emotional support to prisoners and their families. This work could take the form of individual case-work as well as group activities, from family-related courses to special visits aimed at children.
+
 **Cartoon Network** (December 2017 to March 2017)    
 *Compliance Editor and Producer*
 Freelance Compliance editor and producer for Portuguese-dubbed versions of cartoon series. Worked mainly on Doraemon.
+
 **Testronic and SEGA Europe** (August 2015 to March 2017)    
 *Portuguese Localisation Tester*
 Freelance Localisation Games Tester for Portuguese versions of video games. Worked on games such as Football Manager 2017, Ratchet and Clank (2016), and Sony Driveclub.
+
 **University of Coimbra** (December 2012 to May 2013)    
 *Lecturer*
 Tutoring and supervision of the whole development process of students' short films, from the original idea to the final cut, for an undergraduate program in Film Studies.
+
 **ESMAE** (February 2011 to June 2012)
 *Lecturer*
 Screenwriting teacher and Script Coordinator for the students' short films for a Masters Degree in Film Production.
+
 **Persona Non Grata Pictures** (January 2008 to 2011)    
 *Head of Development – Film and TV*
 (January 2008 – December 2011)
@@ -80,6 +86,7 @@ Responsible for script development for all of the company's projects. Duties inc
 - Writing scripts for short films, features, institutional videos and music videos;
 - Writing copy for marketing campaigns;
 - Script Editing and Script Doctoring.
+
 **Various** (January 1998 to January 2017)    
 *Volunteer*
 Worked as a volunteer in the following contexts:
