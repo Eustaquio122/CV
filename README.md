@@ -59,7 +59,7 @@ Working since 2007 as a freelance writer, screenwriter, assistant director, dire
 - Awarded in the “Portuguese Young Creators” award with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories;
 - IMDb entry (partial credits): http://www.imdb.com/name/nm2617086/
 
-**Prison Advice and Care Trust** (March 2017 to September 2017)
+**Prison Advice and Care Trust** (March 2017 to September 2017)    
 *Family Engagement Worker* -   
 Based inside HMP Isis, I provided practical and emotional support to prisoners and their families. This work could take the form of individual case-work as well as group activities, from family-related courses to special visits aimed at children.
 
@@ -75,7 +75,7 @@ Freelance Localisation Games Tester for Portuguese versions of video games. Work
 *Lecturer* - 
 Tutoring and supervision of the whole development process of students' short films, from the original idea to the final cut, for an undergraduate program in Film Studies.
 
-**ESMAE** (February 2011 to June 2012)
+**ESMAE** (February 2011 to June 2012)    
 *Lecturer* - 
 Screenwriting teacher and Script Coordinator for the students' short films for a Masters Degree in Film Production.
 
