@@ -28,7 +28,7 @@ One aspect of my work in film, both as Head of Development and as a freelance sc
 
 "Working with People" because I have not only a vast experience in working in teams, at different levels, as I have successfully worked with people from wide-ranging backgrounds.
 Film shootings are done by large teams divided into a number of departments, each with very specific roles and responsibilities. As an intern, I have worked in some of these departments, under tight schedules and supervision. As an Assitant Director, I was responsible for the running of shootings, having to organise, lead, and coordinate all the departments.
-Throughout my career, from my work in film through to my volunteering for a homeless charity and work as a Family Engagement Worker at a prison in London, I have worked with renowned actors, tv executives, funding and production parties from a number of different countries, people that found themselves homeless in the streets of London (struggling with chronic unemployment, mental health issues, and addiction) and prisoners - from people convicted of shoplifting to people convicted of murder.
+Throughout my career, from my work in film through to my volunteering for a homeless charity and work as a Family Engagement Worker at a prison in London, I have worked with renowned actors, tv executives, funding and production parties from a number of different countries, and people affected by homelessness and imprisonment.
 
 #### Learning and Teaching
 
