@@ -3,7 +3,8 @@
 34 years old, Portuguese, living in London since 2015.
 For a number of years, I have written films, directed films, edited films, helped others making their films, and taught people on how to make films.
 Over the last two years, I have been easing up on the films thing, focusing exclusively on personal projects while, at the same time, learning and working on other areas of interest.
-At the moment, I am looking to pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer. Eventually, I am sure that it will all connect in some way, but at the moment my interests lie particularly in Games Development, Logic Programming, and Metaprogramming.
+I am now looking to pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer. Eventually, I am sure that it will all connect in some way, but at the moment my interests lie particularly on Functional Languages (especially Haskell) and roles that involve dealing with complex logic.
+
 
 ## Skills
 
