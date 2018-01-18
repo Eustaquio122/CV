@@ -10,7 +10,7 @@ At the moment, my interests lie particularly on Functional Languages (especially
 
 ## Projects
 
-Project | Description | Technologies Used | Testing Frameworks  
+Project | Description | Languages Used | Testing Frameworks  
 ---|---|---|---   
 [Robot Wars](https://github.com/SuzanneHuldt/robot-wars) | A bot built to play a two-player variant of Conway's Game of Life at riddles.io | Ruby | RSpec 
 [Arithmetic Interpreter](https://github.com/Eustaquio122/Arithmetic-Expression-Interpreter) | An interpreter for simple arithmetic expressions | Haskell | Hspec    
@@ -32,7 +32,7 @@ During my film career I have developed my creative skills to a high level, both 
 
 #### Analytical Thinking
 
-I have a strong analytical background, having achieved top grades in Maths, Physics, Chemistry and Geometry on my secondary education, and having also studied Computer Science at University (completing modules in linear and advanced algebra, calculus, statistics, data structures and algorithms, set theory, automata, formal grammars, and Turing machines)
+I have a strong analytical background, having achieved top grades in Maths, Physics, Chemistry and Geometry on my secondary education, and having also studied Computer Science at University (completing modules in linear and advanced algebra, calculus, statistics, data structures and algorithms, set theory, automata, formal grammars, and Turing machines).
 
 #### Working with diverse teams and people
 
@@ -40,9 +40,9 @@ Throughout my career, from my work in film through to my volunteering for a home
 
 #### Technical Skills
 
-Proficient in Ruby, Haskell, C, JavaScript, HMTL, jQuery, and CSS.
+Proficient in Ruby, Haskell, C, JavaScript, HMTL, jQuery, and CSS
 
-Basic knowledge of C#, Python, Anaconda/Pandas, SQL, Unity, Assembly, Java, Prolog, and Penetration Testing.
+Basic knowledge of C#, Python, Anaconda/Pandas, SQL, Unity, Assembly, Java, Prolog, and Penetration Testing
 
 ## Education
 
