@@ -4,7 +4,7 @@
 
 For a number of years, I have written films, directed films, edited films, helped others making their films, and taught people on how to make films.
 
-Recently, I have decided to connect with an passion and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer.
+Recently, I have decided to connect with an old flame and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer.
 At the moment, my interests lie particularly on Functional Languages (especially Haskell) and roles that involve dealing with complex logic. But, being new to this area, I am quite open to possibilities.
 
 
@@ -14,7 +14,7 @@ Project | Description | Languages Used | Testing Frameworks
 ---|---|---|---   
 [Robot Wars](https://github.com/SuzanneHuldt/robot-wars) | A bot built to play a two-player variant of Conway's Game of Life at riddles.io | Ruby | RSpec 
 [Arithmetic Interpreter](https://github.com/Eustaquio122/Arithmetic-Expression-Interpreter) | An interpreter for simple arithmetic expressions | Haskell | Hspec    
-[Bowling Challenge](https://github.com/Eustaquio122/bowling-challenge) | An app taht calculates the score of a Ten-pin Bowling game | JavaScript, HTML, CSS | Jasmine
+[Bowling Challenge](https://github.com/Eustaquio122/bowling-challenge) | An app that calculates the score of a Ten-pin Bowling game | JavaScript, HTML, CSS | Jasmine
 [Gritinho](https://github.com/somemarsupials/gritinho) | A Yelp clone | Ruby, Rails, JavaScript, HTML, CSS | Rspec, Capybara
 [Haskell Bowling](https://github.com/Eustaquio122/Haskell-Bowling) | A Haskell implementation of a Ten Pin Bowling score processor and random score generator | Haskell | HUnit    
 
@@ -28,7 +28,7 @@ Over 10 years of experience in developing projects in the Film industry and work
 
 #### Creativity
 
-During my film career I have developed my creative skills to a high level, both on a conceptual level (writing scripts, directing and editing films) as well as on a practical one (optimising resources when running film shootings).
+Throughout my film career, I have developed my creative skills to a high level, both on a conceptual level (writing scripts, directing and editing films) as well as on a practical one (optimising resources when running film shootings).
 
 #### Analytical Thinking
 
