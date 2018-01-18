@@ -1,44 +1,51 @@
 ## Tiago Sousa
 
-34 years old, Portuguese, living in London since 2015.
+35 years old, Portuguese, living in London since 2015.
 For a number of years, I have written films, directed films, edited films, helped others making their films, and taught people on how to make films.
-Over the last two years, I have been easing up on the films thing, focusing exclusively on personal projects while, at the same time, learning and working on other areas of interest.
-I am now looking to pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer. Eventually, I am sure that it will all connect in some way, but at the moment my interests lie particularly on Functional Languages (especially Haskell) and roles that involve dealing with complex logic.
+Recently, I have decided to connect with an passion and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer.
+At the moment, my interests lie particularly on Functional Languages (especially Haskell) and roles that involve dealing with complex logic. But, being new to this area, I am quite open to possibilities.
+
+
+## Projects
+
+Project | Description | Technologies Used | Testing Frameworks  
+---|---|---|---   
+[Robot Wars](https://github.com/SuzanneHuldt/robot-wars) | A bot built to play a two-player variant of Conway's Game of Life at riddles.io | Ruby | RSpec 
+[Arithmetic Interpreter](https://github.com/Eustaquio122/Arithmetic-Expression-Interpreter) | An interpreter for simple arithmetic expressions | Haskell | Hspec    
+[Bowling Challenge](https://github.com/Eustaquio122/bowling-challenge) | An app taht calculates the score of a Ten-pin Bowling game | JavaScript, HTML, CSS | Jasmine
+[Gritinho](https://github.com/somemarsupials/gritinho) | A Yelp clone | Ruby, Rails, JavaScript, HTML, CSS | Rspec, Capybara
+[Haskell Bowling](https://github.com/Eustaquio122/Haskell-Bowling) | A Haskell implementation of a Ten Pin Bowling score processor and random score generator | Haskell | HUnit    
 
 
 ## Skills
 
 #### Project Development
 
-Over my 10 year experience in the Film industry, I have developed a high number of projects for fiction films, documentaries, tv series, music videos, and corporate videos.
-During my time as Head of Development at Persona Non Grata Pictures, I was responsible for implementing a diverse slate of projects - some from my own ideas and initiative, others from strict client briefs - and subsequently managing the whole development process.
-Aside from developing and managing, I actively worked on projects throughout the whole process, as a writer, director/assistant director, and editor. An example of this is the feature film "Embargo", which I wrote, worked on as an assistant director and edited. The film went on to be selected for and awarded prizes at a number of international film festivals, released in theatres in Portugal, Brazil, and the UK, and is still regularly aired on Portuguese and Brazilian TV: 
-http://www.pngpictures.com/english/embargo_EN.htm
+Over 10 years of experience in developing projects in the Film industry and working from inception to delivery.
 
-#### Creative Thinking
 
-Having worked many years in an industry such as film I think creativity is a given. But what I wish to emphasize with the term "Creative Thinking", is not only the ability to come up with imaginative and innovative ideas but also to do so in a thought process that successfully applies to a given context, being able to use new ideas to overcome challenges and make the best out of specific situations.
-When I was directing my first short film, in 2009, I was informed by production that, due to budget constraints, we wouldn't be able to shoot the final scene of the movie, which took place on a train. I decided to adapt to what might be available, and rewrote the whole scene - at the end, the main character didn't depart on a train, but instead on a bike. This is what the poster for the film came to be: http://www.imdb.com/title/tt1455614/mediaviewer/rm3235941632
+#### Creativity
+
+During my film career I have developed my creative skills to a high level, both on a conceptual level (writing scripts, directing and editing films) as well as on a practical one (optimising resources when running film shootings).
 
 #### Analytical Thinking
 
-I have always loved abstract problems. From the 5th to the 12th grade, I came first at my school's maths olympics in all but one occasion. I like elegant and shrewd solutions - and problems that require them.
-One aspect of my work in film, both as Head of Development and as a freelance script reader and editor, has been to analyse scripts and projects, assess its strengths and weaknesses, and either come up with solutions myself or help other people in identifying paths that can lead them to find creative and effective solutions.
+I have a strong analytical background, having achieved top grades in Maths, Physics, Chemistry and Gemotry on my secondary education, and having also studied Computer Science at University (completing modules in linear and advanced algebra, calculus, statistics, data structures and algorithms, set theory, automata, formal grammars, and Turing machines)
 
-#### Working with People
+#### Working with diverse teams and people
 
-"Working with People" because I have not only a vast experience in working in teams, at different levels, as I have successfully worked with people from wide-ranging backgrounds.
-Film shootings are done by large teams divided into a number of departments, each with very specific roles and responsibilities. As an intern, I have worked in some of these departments, under tight schedules and supervision. As an Assitant Director, I was responsible for the running of shootings, having to organise, lead, and coordinate all the departments.
-Throughout my career, from my work in film through to my volunteering for a homeless charity and work as a Family Engagement Worker at a prison in London, I have worked with renowned actors, tv executives, funding and production parties from a number of different countries, and people affected by homelessness and imprisonment.
+Throughout my career, from my work in film through to my volunteering for a homeless charity and work as a Family Engagement Worker at a prison in London, I have worked in a number of different of contexts and projects, with varying teams, and with people from a wide-range of backgrounds (from tv executives, funding and production partners from a number of different countries, to people affected by homelessness and imprisonment.
 
-#### Learning and Teaching
+#### Technical Skills
 
-As a University Lecturer, I focused on helping the students in developing the projects they wanted to develop - they would propose a project, and we would then discuss it and redefine it, if needed, to fit the curricular goals. This required me to not only to be able to teach what I knew but, most often than not, having to research and learn new subjects and approaches to a standard that allowed me to provide guidance and tutoring to the students.
-Throughout my volunteering and work as a Family Engagement Worker, between July 2016 and September 2017, I have seized every training opportunity that was available to me, having completed 18 different certified courses in subjects ranging from "Conflict Management" to "Abuse Related to Beliefs in Witchcraft".
+Proficient in Ruby, Haskell, C, JavaScript, HMTL, jQuery, and CSS.
+Basic knowledge of C#, Python, Anaconda/Pandas, SQL, Unity, Assembly, Java, Prolog, and Penetration Testing.
 
 ## Education
 
 #### Makers Academy (October 2017 to January 2018)
+
+12-Week intensive coding bootcamp.
 
 #### Lisbon Theatre and Film School, Portugal (September 2004 to June 2009)
 
@@ -48,7 +55,8 @@ BA in Film - 2.1
 
 BSc in Computer Science, Incomplete (completed 3 out of 4 years before switching to film)
 
-## Experience
+
+## Work Experience
 
 **Freelance** (September 2007 to Present)    
 *Film Freelancer*    
@@ -57,8 +65,8 @@ Working since 2007 as a freelance writer, screenwriter, assistant director, dire
 - Written, directed and edited three short films, that have been selected to various Portuguese and international film festivals;
 - Written the script for the movie “Embargo” (António Ferreira, 2009), a micro-budget adaptation of the homonymous short-story by José Saramago which was selected for a number of high-profile film festivals, including Austin, Montreal, São Paulo and Rio de Janeiro. Also worked as an assistant director and editor for the same film;
 - Edited an Obs Doc about the world-renowned Portuguese photographer Eduardo Gageiro;
-- Awarded in the “Portuguese Young Creators” award with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories;
-- IMDb entry (partial credits): http://www.imdb.com/name/nm2617086/
+- Awarded in the “Portuguese Young Creatives” with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories;
+IMDb(http://www.imdb.com/name/nm2617086/)
 
 **Prison Advice and Care Trust** (March 2017 to September 2017)    
 *Family Engagement Worker*    
@@ -95,6 +103,7 @@ Worked as a volunteer in the following contexts:
 - 2001 – 2004: Students Union Bar. While attending university, I regularly volunteered to work at the Students Union bar (serving and preparing drinks, working at the cash register, cleaning up);
 - 1998 – 2001: Summer basketball camps, organised by the club I played for. Performed various duties (welcoming and signing in participants, supporting them during activities, preparing and distributing food);
 - 1999/2000: Local council nurseries. During the summer, these nurseries would take the kids to the beach every day for a fortnight and, as a volunteer, I supported the carers in various tasks throughout the day.
+
 
 ## Interests
 
