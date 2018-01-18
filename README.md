@@ -69,6 +69,7 @@ Working since 2007 as a freelance writer, screenwriter, assistant director, dire
 - Written the script for the movie “Embargo” (António Ferreira, 2009), a micro-budget adaptation of the homonymous short-story by José Saramago which was selected for a number of high-profile film festivals, including Austin, Montreal, São Paulo and Rio de Janeiro. Also worked as an assistant director and editor for the same film;
 - Edited an Obs Doc about the world-renowned Portuguese photographer Eduardo Gageiro;
 - Awarded in the “Portuguese Young Creatives” with the first prize in literature for “Animal Collection – a contemporary bestiary”, a collection of short stories;
+
 [IMDb](http://www.imdb.com/name/nm2617086/)
 
 **Prison Advice and Care Trust** (March 2017 to September 2017)    
