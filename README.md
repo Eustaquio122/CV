@@ -89,7 +89,7 @@ Screenwriting teacher and Script Coordinator for the students' short films for a
 
 **Persona Non Grata Pictures** (January 2008 to 2011)    
 *Head of Development – Film and TV*    
-Responsible for script development for all of the company's projects. Duties included:
+Responsible for script development for all of the company's projects.
 
 **Various** (January 1998 to January 2017)    
 *Volunteer*    
