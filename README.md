@@ -4,8 +4,8 @@
 
 For a number of years, I have written films, directed films, edited films, helped others making their films, and taught people on how to make films.
 
-Recently, I have decided to connect with an old flame and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in (yup) Film, and become a solid developer.
-At the moment, my interests lie particularly on Functional Languages (especially Haskell) and roles that involve dealing with complex logic. But, being new to this area, I am quite open to possibilities.
+Recently, I have decided to connect with an old flame and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in Film, and become a solid developer.
+At the moment, my interests lie particularly on Functional Languages (especially Haskell), gaming, and roles that involve dealing with complex logic. But, being new to this area, I am quite open to possibilities.
 
 
 ## Projects
@@ -42,7 +42,7 @@ Throughout my career, from my work in film through to my volunteering for a home
 
 Proficient in Ruby, Haskell, C, JavaScript, HMTL, jQuery, and CSS
 
-Basic knowledge of C#, Python, Anaconda/Pandas, SQL, Unity, Assembly, Java, Prolog, and Penetration Testing
+Basic knowledge of C#, C++, Unity, Unreal, Python, Anaconda/Pandas, SQL, Assembly, Java, Prolog, and Penetration Testing
 
 ## Education
 
