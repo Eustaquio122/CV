@@ -4,8 +4,8 @@
 
 For a number of years, I have written films, directed films, edited films, helped others making their films, and taught people on how to make films.
 
-Recently, I have decided to connect with an old flame and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in Film, and become a solid developer.
-At the moment, my interests lie particularly on Functional Languages (especially Haskell), gaming, and roles that involve dealing with complex logic. But, being new to this area, I am quite open to possibilities.
+Recently, I have decided to connect with an old passion and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in Film, and become a solid developer.
+At the moment, my interests lie particularly in Functional Languages (especially Haskell), and roles that involve dealing with complex logic.
 
 
 ## Projects
