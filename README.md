@@ -40,7 +40,7 @@ Throughout my career, from my work in film through to my volunteering for a home
 
 #### Technical Skills
 
-Proficient in Ruby, Haskell, C, JavaScript, HMTL, jQuery, and CSS
+Proficient in JavaScript/Node.js, Ruby, Haskell, Hyperledger Fabric/Composer, C, HMTL, jQuery, and CSS
 
 Basic knowledge of C#, C++, Unity, Unreal, Python, Anaconda/Pandas, SQL, Assembly, Java, Prolog, and Penetration Testing
 
