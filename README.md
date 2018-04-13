@@ -64,7 +64,7 @@ BSc in Computer Science, Incomplete (completed 3 out of 4 years before switching
 **Santander UK Technology** (March 2018 to Present)
 *Software Engineer*
 Developing blockchain-based apps at Santander UK Technology's Innovation Hub.
-Participated in the desing and lead the implementation of the models and smart-contracts for a POC banking app (using Hyperledger Composer and NodeJS).
+Participated in the desing and lead the implementation of the models and smart-contracts for a POC banking app (using Hyperledger Composer and Node.js).
 
 
 **Freelance** (September 2007 to Present)    
