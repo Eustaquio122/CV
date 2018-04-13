@@ -62,16 +62,14 @@ BSc in Computer Science, Incomplete (completed 3 out of 4 years before switching
 ## Work Experience
 
 
-**Santander UK Technology** (March 2018 to Present)
-*Software Engineer*
-Developing blockchain-based apps at Santander UK Technology's Innovation Hub.
-
+**Santander UK Technology** (March 2018 to Present)    
+*Software Engineer*    
+Developing blockchain-based apps at Santander UK Technology's Innovation Hub.    
 Participated in the desing and lead the implementation of the models and smart-contracts for a POC banking app (using Hyperledger Composer and Node.js).
 
 **Freelance** (September 2007 to Present)    
 *Film Freelancer*    
-Working since 2007 as a freelance writer, screenwriter, assistant director, director and editor for short and feature films, documentaries and TV.
-
+Working since 2007 as a freelance writer, screenwriter, assistant director, director and editor for short and feature films, documentaries and TV.    
 [IMDb](http://www.imdb.com/name/nm2617086/)
 
 **Prison Advice and Care Trust** (March 2017 to September 2017)    
