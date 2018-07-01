@@ -58,6 +58,13 @@ BA in Film - 2.1
 
 BSc in Computer Science, Incomplete (completed 3 out of 4 years before switching to film)
 
+#### Maia Secondary School, Portugal - A Levels (June 2001)
+
+Maths - A*   
+Physics - A*   
+Descriptive Geometry - A*   
+Chemistry - A   
+Portuguese - A
 
 ## Work Experience
 
