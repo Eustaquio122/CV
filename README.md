@@ -40,9 +40,9 @@ Throughout my career, from my work in film through to my volunteering for a home
 
 #### Technical Skills
 
-Proficient in JavaScript/Node.js, Ruby, Haskell, Hyperledger Fabric/Composer, C, HMTL, jQuery, and CSS
+Proficient in JavaScript/Node.js, Ruby, Haskell, Hyperledger Fabric/Composer
 
-Basic knowledge of C#, C++, Unity, Unreal, Python, Anaconda/Pandas, SQL, Assembly, Java, Prolog, and Penetration Testing
+Basic knowledge of Docker, Jenkins, C/C++, Python, Perl, SQL, Assembly, C
 
 ## Education
 
@@ -72,7 +72,8 @@ Portuguese - A
 **Santander UK Technology** (March 2018 to Present)    
 *Software Engineer*    
 Developing blockchain-based apps at Santander UK Technology's Innovation Hub.    
-Participated in the desing and lead the implementation of the models and smart-contracts for a POC banking app (using Hyperledger Composer and Node.js).
+Participated in the design and lead the implementation of the models and smart-contracts for a POC banking app (using Hyperledger Composer and Node.js).   
+Evaluated technical solutions and different architectural approaches for a bank sandbox API environment. Currently implementing one of the components using Ruby/Sinatra and Node.js.
 
 **Freelance** (September 2007 to Present)    
 *Film Freelancer*    
