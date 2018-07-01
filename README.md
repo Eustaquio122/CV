@@ -42,7 +42,7 @@ Throughout my career, from my work in film through to my volunteering for a home
 
 Proficient in JavaScript/Node.js, Ruby, Haskell, Hyperledger Fabric/Composer
 
-Basic knowledge of Docker, Jenkins, C/C++, Python, Perl, SQL, Assembly, C
+Basic knowledge of Docker, Jenkins, C/C++, Python, Perl, SQL, Assembly
 
 ## Education
 
