@@ -2,10 +2,9 @@
 
 35 years old, Portuguese, living in London since 2015.
 
-For a number of years, I have written films, directed films, edited films, helped others making their films, and taught people on how to make films.
+Software engineer at Santander UK Technology, working in blockchain projects using Node.js, Hyperledger Fabric/Composer, and Bash/Shell.
 
-Recently, I have decided to connect with an old passion and pick up where I left many years ago, when I switched from a Computer Science BSc to a BA in Film, and become a solid developer.
-At the moment, my interests lie particularly in Functional Languages (especially Haskell), and roles that involve dealing with complex logic.
+Interested in functional languages, working with complex algorithms, data structures, and Computer Science concepts.
 
 
 ## Projects
@@ -42,7 +41,9 @@ Throughout my career, from my work in film through to my volunteering for a home
 
 Proficient in JavaScript/Node.js, Ruby, Haskell, Hyperledger Fabric/Composer
 
-Basic knowledge of Docker, Jenkins, C/C++, Python, Perl, SQL, Assembly
+Working knowledge of Docker, Jenkins, Perl, SQL, and Bash/Shell
+
+Basic knowledge of C/C++, Python, and Assembly
 
 ## Education
 
