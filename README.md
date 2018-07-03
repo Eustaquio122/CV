@@ -72,9 +72,11 @@ Portuguese - A
 
 **Santander UK Technology** (March 2018 to Present)    
 *Software Engineer*    
-Developing blockchain-based apps at Santander UK Technology's Innovation Hub.    
-Participated in the design and lead the implementation of the models and smart-contracts for a POC banking app (using Hyperledger Composer and Node.js).   
-Evaluated technical solutions and different architectural approaches for a bank sandbox API environment. Currently implementing one of the components using Ruby/Sinatra and Node.js.
+Santander UK Technology, blockchain team.    
+Some relevant work:   
+- Designed and implemented the models and smart-contracts for a POC blockchain-based banking app (using Hyperledger Fabric/Composer and Node.js)   
+- Designed and implemented a POC blockchain-based event broker (using Hyperledger Fabric/Composer and Node.js)   
+- Designed and implemented an API to create mock data and populate a sandbox API banking environment (using Ruby/Sinatra)
 
 **Freelance** (September 2007 to Present)    
 *Film Freelancer*    
