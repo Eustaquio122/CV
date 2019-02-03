@@ -4,7 +4,7 @@
 
 Software engineer at Byte London.
 
-Interested in systems programming, functional languages, and Blockchain/distributed systems.
+Interested in systems programming, functional languages, and Blockchain/decentralised systems.
 
 ## Projects
 
