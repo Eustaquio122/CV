@@ -72,8 +72,8 @@ Portuguese - A
 
 ## Work Experience
 
-**Byte London** (August 2018 to Present)
-_Software Engineer_
+**Byte London** (August 2018 to Present)  
+_Software Engineer_  
 Working as a software engineer for [Byte London](https://bytemissioncontrol.com/), a marketing technology agency, mostly around NLP automation for chatbots and analytics.
 
 **Santander UK Technology** (March 2018 to August 2018)  
