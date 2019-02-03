@@ -62,7 +62,7 @@ Descriptive Geometry - A\*
 Chemistry - A  
 Portuguese - A
 
-#### Aditional Courses
+#### Aditional Education
 
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) - online course by the University of California San Diego and the National Research University Higher School of Economics.
 
@@ -74,7 +74,7 @@ Portuguese - A
 
 **Byte London** (August 2018 to Present)
 _Software Engineer_
-Working as a software engineer for [Byte London](https://bytemissioncontrol.com/, a marketing technology agency, mostly around NLP automation for chatbots and analytics.
+Working as a software engineer for [Byte London](https://bytemissioncontrol.com/), a marketing technology agency, mostly around NLP automation for chatbots and analytics.
 
 **Santander UK Technology** (March 2018 to August 2018)  
 _Software Engineer_  
