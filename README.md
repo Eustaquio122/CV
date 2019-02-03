@@ -10,7 +10,7 @@ Interested in systems programming and functional languages.
 
 | Project                                                                                     | Description                                                                              | Languages Used                     | Testing Frameworks |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------- | ------------------ |
-| [Rust Tetris](https://github.com/Eustaquio122/rust-tetris)                                  | A Tetris clone written in Rust, using Piston/OpenGL                                      |
+| [Rust Tetris](https://github.com/Eustaquio122/rust-tetris)                                  | A Tetris clone written in Rust, using Piston/OpenGL                                      | Rust                               | ---                |
 | [Robot Wars](https://github.com/SuzanneHuldt/robot-wars)                                    | A bot built to play a two-player variant of Conway's Game of Life at riddles.io          | Ruby                               | RSpec              |
 | [Arithmetic Interpreter](https://github.com/Eustaquio122/Arithmetic-Expression-Interpreter) | An interpreter for simple arithmetic expressions                                         | Haskell                            | Hspec              |
 | [Gritinho](https://github.com/somemarsupials/gritinho)                                      | A Yelp clone                                                                             | Ruby, Rails, JavaScript, HTML, CSS | Rspec, Capybara    |
