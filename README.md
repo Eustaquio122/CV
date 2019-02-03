@@ -118,7 +118,7 @@ Responsible for script development for all of the company's projects.
 _Volunteer_  
 Worked as a volunteer in the following contexts:
 
-- 2016/2017 - 2018 - Present: St. Mungo's. Outreach volunteer at a charity for homeless people.
+- 2016/2017 and 2018 - Present: St. Mungo's. Outreach volunteer at a charity for homeless people.
 - 2001 – 2004: University Students Union Bar
 - 1998 – 2001: Summer basketball camps, organised by the club I played for. Performed various duties (welcoming and signing in participants, supporting them during activities, preparing and distributing food);
 - 1999/2000: Local council nurseries. During the summer, these nurseries would take the kids to the beach every day for a fortnight and, as a volunteer, I supported the carers in various tasks throughout the day.
