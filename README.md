@@ -25,13 +25,13 @@ Software engineer at [Byte London](https://bytemissioncontrol.com/), a marketing
 Worked mostly around automation for chatbots and analytics.
 Some relevant work:
 
-- Implemented the business logic and the database for a Spotify end of the year marketing campaign that ran almost entirely in an autmoated fashion
+- Implemented the business logic and the database for a Spotify end of the year marketing campaign that ran almost entirely in an automated fashion
 - Built a tool to automate an internal process, which resulted in a very significant decrease in the time and manpower required to perform the task 
 - Refactored a large number of the existing sql queries
 
 **Santander UK Technology** (March 2018 to August 2018)  
 _Software Engineer_  
-Santander UK Technology, blockchain team.
+Software engineer at [Santander Technology](https://www.santandertechnology.co.uk/), blockchain team.
 Some relevant work:
 
 - Designed and implemented the models and smart-contracts for a POC blockchain-based banking app (using Hyperledger Fabric/Composer and Node.js)
@@ -53,7 +53,6 @@ _Portuguese Localisation Tester_
 
 **University of Coimbra** (December 2012 to May 2013)  
 _Lecturer - Undergraduate in Film_  
-
 
 **ESMAE** (February 2011 to June 2012)  
 _Lecturer - MA in Film_  
