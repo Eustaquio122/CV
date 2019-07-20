@@ -98,7 +98,7 @@ Portuguese - A
 
 #### Aditional Education
 
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - 5 course specialization by deeplearning.ai, lectured by Andrew Ng, and cerified by Coursera.
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - 5 course specialization by deeplearning.ai, lectured by Andrew Ng and certified by Coursera.
 
 [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) - course by the University of California San Diego and the National Research University Higher School of Economics, certified by Coursera.
 
